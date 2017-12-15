@@ -33,31 +33,6 @@
   <Python>
     <option name="SPACE_AFTER_PY_COLON" value="false" />
   </Python>
-  <codeStyleSettings language="CMake">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="CSS">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="HTML">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JSON">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="LESS">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
@@ -70,16 +45,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="SASS">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
