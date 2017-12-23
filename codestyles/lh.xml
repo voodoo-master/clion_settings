@@ -40,6 +40,9 @@
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="SPACE_AROUND_LAMBDA_ARROW" value="false" />
     <option name="WHILE_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <indentOptions>
