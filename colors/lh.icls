@@ -3,7 +3,7 @@
     <property name="created">2017-12-12T08:41:50</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-21T09:49:20</property>
+    <property name="modified">2018-03-09T14:04:30</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <colors>
@@ -122,6 +122,21 @@
       <value>
         <option name="FOREGROUND" value="8080" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.BRACES">
+      <value>
+        <option name="FOREGROUND" value="9c0c0d" />
+      </value>
+    </option>
+    <option name="PY.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="9c0c0d" />
+      </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="9c0c0d" />
       </value>
     </option>
     <option name="TEXT">
