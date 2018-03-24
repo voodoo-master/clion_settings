@@ -3,7 +3,7 @@
     <property name="created">2017-12-12T08:41:50</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-03-09T14:22:47</property>
+    <property name="modified">2018-03-24T21:19:05</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,26 @@
     <option name="GUTTER_BACKGROUND" value="e0dfd8" />
   </colors>
   <attributes>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="3d99" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="154e0e" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="3d99" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="3d99" />
+      </value>
+    </option>
     <option name="OC.BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
