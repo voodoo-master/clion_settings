@@ -3,9 +3,8 @@
     <property name="created">2017-12-12T08:41:50</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-03-26T16:27:25</property>
+    <property name="modified">2018-05-04T09:55:50</property>
     <property name="originalScheme">_@user_Default</property>
-    <property name="rainbow Python">false</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="e9ebed" />
