@@ -10,7 +10,7 @@
         <dictionary name="ros" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="android.sdk.path" value="/opt/android-sdk" />
       </component>
