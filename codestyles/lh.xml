@@ -4,6 +4,7 @@
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
     <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
     <option name="BLOCK_BRACE_PLACEMENT" value="2" />
+    <option name="DISCHARGED_SHORT_TERNARY_OPERATOR" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <file>
@@ -39,6 +40,8 @@
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="SPACE_AROUND_LAMBDA_ARROW" value="false" />
+    <option name="SPACE_WITHIN_BRACES" value="false" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="false" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
