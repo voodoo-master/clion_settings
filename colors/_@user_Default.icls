@@ -3,7 +3,7 @@
     <property name="created">2017-08-24T16:18:02</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-12-05T14:02:07</property>
+    <property name="modified">2017-12-05T23:09:03</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -30,6 +30,12 @@
     <option name="OC.FUNCTION">
       <value>
         <option name="FOREGROUND" value="3289d5" />
+      </value>
+    </option>
+    <option name="OC.FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="3289d5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.GLOBAL_VARIABLE">
