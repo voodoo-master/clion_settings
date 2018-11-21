@@ -1,8 +1,8 @@
 <code_scheme name="lh" version="173">
+  <option name="RIGHT_MARGIN" value="200" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
-    <option name="KEEP_DIRECTIVE_AT_FIRST_COLUMN" value="false" />
     <option name="NAMESPACE_BRACE_PLACEMENT" value="2" />
     <option name="FUNCTION_BRACE_PLACEMENT" value="2" />
     <option name="BLOCK_BRACE_PLACEMENT" value="2" />
@@ -50,7 +50,6 @@
     <option name="SPACE_AFTER_PY_COLON" value="false" />
   </Python>
   <codeStyleSettings language="ObjectiveC">
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
@@ -59,6 +58,8 @@
     <option name="SPACE_AROUND_LAMBDA_ARROW" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="false" />
+    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
