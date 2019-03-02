@@ -1,6 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="10.204.220.5" />
-    <option name="PROXY_EXCEPTIONS" value="linux64, 192.*, 10.*" />
-  </component>
-</application>
